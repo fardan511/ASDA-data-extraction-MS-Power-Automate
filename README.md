@@ -59,7 +59,7 @@ Given a list of **WIN product codes** in an Excel input file, this automation:
 ## Screenshots
 
 ### Input File
-![Input](screenshots/01-input.png)
+![Input](screenshots/01-input.jpeg)
 
 ### Main Flow
 ![Main Flow](screenshots/02-main-flow.png)
@@ -74,7 +74,7 @@ Given a list of **WIN product codes** in an Excel input file, this automation:
 ![Website](screenshots/05-website.png)
 
 ### Output File
-![Output](screenshots/06-output.png)
+![Output](screenshots/06-output.jpeg)
 
 ---
 
